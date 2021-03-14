@@ -7,4 +7,3 @@ A python script for scrapping Email and Phone Number recursively using Beautiful
  3. Set the count variable for depth in website you want to look(default count = 10).
  ## Thats All ! 
  
- Please comment for any help or suggestions.
