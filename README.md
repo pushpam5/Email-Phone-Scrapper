@@ -1,4 +1,4 @@
-# Email-PhoneNo.Scrapper
+# Email-Phone-Scrapper
 A python script for scrapping Email and Phone Number recursively using Beautiful Soup and Pandas.
  # Follow Below Steps
  
